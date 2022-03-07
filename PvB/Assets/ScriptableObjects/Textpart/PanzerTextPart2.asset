@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c2fe0b06f888b444874f440834521b2, type: 3}
+  m_Name: PanzerTextPart2
+  m_EditorClassIdentifier: 
+  partTitle: Title 2
+  partText: The Panzer II was supplanted by the Panzer III and IV medium tanks by
+    1940/1941.[4] By the end of 1942, it had been largely removed from front line
+    service and it was used for training and on secondary fronts.[4] The turrets
+    of the then-obsolete Panzer Is and Panzer IIs were reused as gun turrets on specially
+    built defensive bunkers,[5] particularly on the Atlantic Wall. Production of
+    the tank itself ceased by January 1944, but its chassis remained in use as the
+    basis of several other armoured vehicles, chiefly self-propelled artillery and
+    tank destroyers such as the Wespe and Marder II respectively.
